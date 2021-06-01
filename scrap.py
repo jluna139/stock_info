@@ -1,5 +1,6 @@
 from yahoo_fin import stock_info as si
 from yahoo_fin import  news
+import matplotlib
 
 
 import pandas as pd
